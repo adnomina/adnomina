@@ -21,5 +21,7 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/adnomina)
 
 ## Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white)](https://github.com/adnomina)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%236364FF?logo=mastodon&logoColor=white)](https://mstdn.social/@adnomina)
+[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A?logo=devdotto&logoColor=white)](https://dev.to/adnomina)
 - [LinkedIn](https://www.linkedin.com/in/nicolasherschke/)
-
