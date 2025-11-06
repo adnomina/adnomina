@@ -1,15 +1,16 @@
 # Hi, I'm Nicolas 👋
 
-🧑🏻‍💻 **Full-Stack Web Developer**
-📍 **Bavaria, Germany**
+🧑🏻‍💻 **Full-Stack Web Developer** | 📍 **Bavaria, Germany**
 
-## About me
-Hi, my name is Nicolas and I’m a full-stack web developer.
+> Currently figuring out AI-native / agentic engineering
+
+## Current projects
+- [Blog](https://github.com/adnomina/adnomina-blog) - My own blog
 
 ## GitHub Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/adnomina)
 
 ## Connect with me
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adnomina)
-[LinkedIn](https://www.linkedin.com/in/nicolasherschke/?locale=en_US)
+- [![LinkedIn](https://img.shields.io/badge/-Nicolas Herschke-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasherschke/)
+- [![GitHub](https://img.shields.io/badge/-Follow me-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adnomina)
 
