@@ -1,4 +1,4 @@
-# Hi, I'm Nicolas 👋
+# Hi, I'm Nicolas 👋🏻
 
 🧑🏻‍💻 **Full-Stack Web Developer** | 📍 **Bavaria, Germany**
 
@@ -12,12 +12,13 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch-%231793D1?&logo=arch-linux&logoColor=white)
 
-> Currently figuring out AI-native / agentic engineering
+> Currently mastering AI-native / agentic engineering
 
 ## Current projects
-- [Blog](https://github.com/adnomina/adnomina-blog) - My own blog
+- 📝 [adnomina-blog](https://github.com/adnomina/adnomina-blog) - My personal blog running on [Eleventy](https://github.com/11ty/eleventy)
+- 🚀 Learning Typescript on [BOOT.DEV](https://www.boot.dev/) for a career transition
 
-## GitHub Activity
+## GitHub activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/adnomina)
 
 ## Connect with me
