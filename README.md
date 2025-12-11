@@ -12,17 +12,22 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch-%231793D1?&logo=arch-linux&logoColor=white)
 
-> Currently mastering AI-native / agentic engineering
+> Currently being nerdy about AI-assisted software engineering
 
 ## Current projects
-- 📝 [adnomina-blog](https://github.com/adnomina/adnomina-blog) - My personal blog running on [Eleventy](https://github.com/11ty/eleventy)
-- 🚀 Learning Typescript on [BOOT.DEV](https://www.boot.dev/) for a career transition
+- 🤖 Tinkering with agentic software engineering workflows
+- 📝 Starting [my own blog](https://github.com/adnomina/adnomina-blog)
+- 🎄 Doing my best to keep up with [Advent of Code 2025](https://github.com/adnomina/aoc-2025)
+- ⚛️ Learning React
+- 🚀 Learning Typescript on [BOOT.DEV](https://www.boot.dev/)
+- 🐍 Learning Python
 
 ## GitHub activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/adnomina)
 
 ## Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white)](https://github.com/adnomina)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2)](https://www.linkedin.com/in/nicolasherschke/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%236364FF?logo=mastodon&logoColor=white)](https://mstdn.social/@adnomina)
 [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A?logo=devdotto&logoColor=white)](https://dev.to/adnomina)
-- [LinkedIn](https://www.linkedin.com/in/nicolasherschke/)
+
