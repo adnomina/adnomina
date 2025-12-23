@@ -8,9 +8,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black)
 
+![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4?&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?&logo=mysql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?&logo=linux&logoColor=black)
@@ -19,12 +20,9 @@
 > Currently being nerdy about AI-assisted software engineering
 
 ## Current projects
-- 🤖 Tinkering with agentic software engineering workflows
+- 🤖 Tinkering with AI coding agents
 - 📝 Starting [my own blog](https://github.com/adnomina/adnomina-blog)
-- 🎄 Doing my best to keep up with [Advent of Code 2025](https://github.com/adnomina/aoc-2025)
-- ⚛️ Learning React
-- 🚀 Learning Typescript on [BOOT.DEV](https://www.boot.dev/)
-- 🐍 Learning Python
+- 🎄 Doing [Advent of Code 2025](https://github.com/adnomina/aoc-2025)
 
 ## GitHub activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/adnomina)
