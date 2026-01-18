@@ -17,12 +17,13 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch-%231793D1?&logo=arch-linux&logoColor=white)
 
-> Currently being nerdy about AI-assisted software engineering
+> Currently exploring the possibilities of AI-assisted software engineering.
 
 ## Current projects
-- 🤖 Tinkering with AI-assisted coding agents
+- 🤖 Experimenting with MCPs, Skills, and other tools for AI coding agents (like
+  [Auto Issues](https://github.com/adnomina/auto-issues))
 - 📝 Starting [my own blog](https://github.com/adnomina/adnomina-blog)
-- 🎄 Doing [Advent of Code 2025](https://github.com/adnomina/aoc-2025)
+- ⌨️ Perfecting [my Neovim setup](https://github.com/adnomina/nvim)
 
 ## GitHub activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/adnomina)
