@@ -2,11 +2,11 @@
 
 🧑🏻‍💻 **Full-Stack Web Developer** | 📍 **Bavaria, Germany**
 
+![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%23663399?logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black)
 
 ![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4?&logo=php&logoColor=white)
@@ -20,7 +20,7 @@
 > Currently being nerdy about AI-assisted software engineering
 
 ## Current projects
-- 🤖 Tinkering with AI coding agents
+- 🤖 Tinkering with AI-assisted coding agents
 - 📝 Starting [my own blog](https://github.com/adnomina/adnomina-blog)
 - 🎄 Doing [Advent of Code 2025](https://github.com/adnomina/aoc-2025)
 
