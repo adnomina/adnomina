@@ -3,6 +3,7 @@
 🧑🏻‍💻 **Full-Stack Web Developer** | 📍 **Bavaria, Germany**
 
 ![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
@@ -31,8 +32,8 @@
 ## Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white)](https://github.com/adnomina)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2)](https://www.linkedin.com/in/nicolasherschke/)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%236364FF?logo=mastodon&logoColor=white)](https://mstdn.social/@adnomina)
 [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A?logo=devdotto&logoColor=white)](https://dev.to/adnomina)
 
 ## Trivia
 - 🐑 My Avatar is Seaghan the sheep, which was created playing Pen & Paper
+- My username is my first gamer tag, reversed. (I didn't keep Animonda, because it's the name of a pet food brand—creative, I know—and probably copyrighted.)
