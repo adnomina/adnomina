@@ -18,13 +18,10 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch-%231793D1?&logo=arch-linux&logoColor=white)
 
-> Currently exploring the possibilities of AI-assisted software engineering.
-
 ## Current projects
-- 🤖 Experimenting with MCPs, Skills, and other tools for AI coding agents (like
-  [Auto Issues](https://github.com/adnomina/auto-issues))
-- 📝 Starting [my own blog](https://github.com/adnomina/adnomina-blog)
-- ⌨️ Perfecting [my Neovim setup](https://github.com/adnomina/nvim)
+- ❄️ Learning Nix programming and Nix Flake configuration (for dev environments, CI, and [my MacBook setup](https://github.com/adnomina/dotfiles/blob/main/nix/flake.nix))
+- 📝 Working on my [personal website](https://github.com/adnomina/website)
+- ⌨️ Making [clankers](https://lucumr.pocoo.org/2026/5/26/clankers/) more deterministic with hooks
 
 ## GitHub activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/adnomina)
