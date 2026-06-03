@@ -20,7 +20,7 @@
 
 ## Current projects
 - ❄️ Learning Nix programming and Nix Flake configuration (for dev environments, CI, and [my MacBook setup](https://github.com/adnomina/dotfiles/blob/main/nix/flake.nix))
-- 📝 Working on my [personal website](https://github.com/adnomina/website)
+- 📝 Working on my [personal website](https://github.com/adnomina/adnomina.github.io)
 - ⌨️ Making [clankers](https://lucumr.pocoo.org/2026/5/26/clankers/) more deterministic with hooks
 
 ## GitHub activity
